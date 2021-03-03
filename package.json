@@ -1,0 +1,23 @@
+{
+  "name": "jsnad-certification-material",
+  "version": "0.0.1",
+  "description": "JSNAD certification learning material",
+  "repository": {
+    "type": "git@github.com:ealvarezk/jsnad-certification-material.git"
+  },
+  "keywords": [
+    "javascript",
+    "JS",
+    "ES6",
+    "ECMAScript",
+    "node",
+    "JSNAD"
+  ],
+  "author": "Ezequiel Alvarez <ezequielalvarez@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ealvarezk/jsnad-certification-material/issues"
+  },
+  "homepage": "https://github.com/ealvarezk/jsnad-certification-material#readme",
+  "private": true
+}
